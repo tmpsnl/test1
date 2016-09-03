@@ -39,6 +39,9 @@ class Test {
  */
 function testing() {
 
+	// Github tab.
+	echo 'test';
+
 	// tabbed.
 	echo 'No tabs';
 
