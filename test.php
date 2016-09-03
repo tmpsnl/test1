@@ -31,3 +31,12 @@ class Test {
 			$this->var = $var;
 	}
 }
+
+function testing() {
+echo 'No tabs';
+	echo 'This is 1 tab';
+		echo 'This is 2 tabs';
+echo 'No tabs';
+	echo 'This is 1 tab';
+		echo 'This is 2 tabs';
+}
