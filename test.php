@@ -32,17 +32,19 @@ class Test {
 	}
 }
 
+/**
+ * Function doc comment.
+ *
+ * @return void
+ */
 function testing() {
-//34
-echo 'No tabs';
-//34//34
-	echo 'This is 1 tab';
-//34//34//34
-		echo 'This is 2 tabs';
-//34
-echo 'No tabs';
-	//34
-	echo 'This is 1 tab';
-		//34
-		echo 'This is 2 tabs';
+
+	// tabbed.
+	echo 'No tabs';
+
+	// tabbed.
+	echo 'No tabs';
+
+	// tabbed.
+	echo 'No tabs';
 }
